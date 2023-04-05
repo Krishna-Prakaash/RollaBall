@@ -99,9 +99,9 @@ public class Program : MonoBehaviour
 
 
 ## Output:
-![OP-01](IMG-1.PNG)
+![OP-01](IMG-2.png)
 
-![OP-02](IMG-2.PNG)
+![OP-02](IMG-1.png)
 
 
 ## Result:
